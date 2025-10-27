@@ -34,7 +34,7 @@
   },
   "course_title": "Adaptive Antennas and Phased Arrays",
   "hide_download": true,
-  "course_description": "The 16 lectures in this course cover the topics of adaptive antennas and phased arrays. Both theory and experiments are covered in the lectures. Part one (lectures 1 to 7) covers adaptive antennas. Part two (lectures 8 to 16) covers phased arrays. Parts one and two can be studied independently (in either order). The intended audience for this course is primarily practicing engineers and students in electrical engineering. This course is presented by Dr. Alan J. Fenn, senior staff member at MIT Lincoln Laboratory.\n\n[Online Publication](http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html)\n",
+  "course_description": "The 16 lectures in this course cover the topics of adaptive antennas and phased arrays. Both theory and experiments are covered in the lectures. Part one (lectures 1 to 7) covers adaptive antennas. Part two (lectures 8 to 16) covers phased arrays. Parts one and two can be studied independently (in either order). The intended audience for this course is primarily practicing engineers and students in electrical engineering. This course is presented by Dr. Alan J. Fenn, senior staff member at MIT Lincoln Laboratory.\n\n{{% resource_link \"28455f29-2f85-46c7-b007-e86c3c6a9d70\" \"Online Publication\" %}}\n",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.LL-002",
@@ -42,7 +42,6 @@
     "content": "e45b4009-8a06-9b79-911d-7761eda6f719",
     "website": "res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "f1c96af9-98e2-4f95-a1fe-9ab15c103675",
   "site_short_id": "res.ll-002-spring-2010",
