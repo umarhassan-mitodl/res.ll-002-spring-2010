@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
 title: Online Publication
